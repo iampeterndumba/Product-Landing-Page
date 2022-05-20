@@ -1,7 +1,6 @@
 # Product-Landing-Page
 
-- A product landing page
--  
+- This landing page is aimed to briefly explain the services offered while encouraging the page visitors to take action like sign up for a package of their choices. 
 ### Languages:
 HTML/CSS
 
