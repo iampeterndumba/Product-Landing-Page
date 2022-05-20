@@ -31,7 +31,6 @@ a{
 		
 		margin-left:150px;
 		
-		
 }}
 h1{
 	font-size:40px;
@@ -61,19 +60,13 @@ font-size:17px;
 		width:120px;
 		margin-left:40px ! important;
 }
-
-
 /* For mobile devices */
 @media only screen and (max-width:600px){
 	 ul li{
 		
 		float:center;
 		
-		
 	margin-left:80px ! important;
-	
-	
-		
 }}
 ul li a:hover{
 	text-decoration:none;
@@ -103,8 +96,6 @@ margin-left:220px;
 }
 .myform{
 	text-align:center ! important;
-	
-	
 }
 #email{
 width:250px;
@@ -113,8 +104,6 @@ width:250px;
 button{
 	width:220px;
 	background-color:yellow;
-
-	
 }
 /*Features */
 .featured{
@@ -129,8 +118,6 @@ text-align:left;
 text-align:center;
 margin-top:210px;
 margin-bottom:140px;
-
-
 }
 @media and screen only (max-width:600px){
 .youtube_video{
@@ -178,10 +165,6 @@ border:1px solid black;
 	   text-align: center;
 padding:40px;
 	 justify-content:space-between;
-	 
-	 
-	  
-	
   }
 }
 
@@ -204,10 +187,6 @@ padding:40px;
 	   text-align: center;
 
 	 justify-content:space-between;
-	 
-	 
-	  
-	
   }
 }
 /*For mobile */
@@ -219,10 +198,6 @@ padding:40px;
 	   text-align: center;
 
 	 justify-content:space-between;
-	 
-	 
-	  
-	
   }
 }
 #purchase{
@@ -236,7 +211,6 @@ padding:40px;
 	font-weight:bold;
 	background-color:#000;
 }
-
 
 /* Footer area */
 .footer_main{
@@ -252,12 +226,6 @@ text-align:right ! important;
 font-size:center;
 color:#fff;
 }
-
-
-
-
-
-	
  .fal{
 	 width:20px;
 height:80px;
